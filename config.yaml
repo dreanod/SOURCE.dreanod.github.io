@@ -4,6 +4,7 @@ title: A Hugo website
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
+publishDir: "../dreanod.github.io"
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
